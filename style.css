@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+img {
+  display: block;
+  margin: 0px auto;
+}
+.wrinkled {
+  background-image: url("img/wrinkled.jpg");
+  color: black;
+}
